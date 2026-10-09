@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "landscape",
+    "createdAt": "2024-06-01T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "mountains",
+    "createdAt": "2024-06-01T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "coast",
+    "createdAt": "2024-06-01T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "forest",
+    "createdAt": "2024-06-01T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "lakes",
+    "createdAt": "2024-06-01T00:00:00Z"
+  },
+  {
+    "id": 6,
+    "name": "sky",
+    "createdAt": "2024-06-01T00:00:00Z"
+  },
+  {
+    "id": 7,
+    "name": "meadows",
+    "createdAt": "2024-06-01T00:00:00Z"
+  },
+  {
+    "id": 8,
+    "name": "desert",
+    "createdAt": "2024-06-01T00:00:00Z"
+  },
+  {
+    "id": 9,
+    "name": "waterfalls",
+    "createdAt": "2024-06-01T00:00:00Z"
+  },
+  {
+    "id": 10,
+    "name": "wildlife",
+    "createdAt": "2024-06-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,466 @@
+{
+    "id": 3,
+    "status": "uploaded",
+    "title": "Into the Forest",
+    "description": "Mossy trunks, misty pines and autumn trails.",
+    "authorId": 1,
+    "tags": [
+        "forest",
+        "trees",
+        "autumn"
+    ],
+    "dayUploaded": "2026-05-08T12:00:00Z",
+    "coverSrc": "https://picsum.photos/id/932/1280/720",
+    "views": 1430,
+    "totalDuration": 60000,
+    "content": {
+        "text": [
+            {
+                "id": 1,
+                "startTime": 0,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 15
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "Golden moss on a branch against blue sky."
+            },
+            {
+                "id": 2,
+                "startTime": 5000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 30
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "Bright green trees around a rocky stream."
+            },
+            {
+                "id": 3,
+                "startTime": 10000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 45
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "Sunlight bursting between tall, dark trunks."
+            },
+            {
+                "id": 4,
+                "startTime": 15000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 20
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "A leafy tunnel over a quiet woodland trail."
+            },
+            {
+                "id": 5,
+                "startTime": 20000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 35
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "A dark pine forest under a warm evening sky."
+            },
+            {
+                "id": 6,
+                "startTime": 25000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 50
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "Soft moss and young shrubs on a forest floor."
+            },
+            {
+                "id": 7,
+                "startTime": 30000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 25
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "A mossy log resting on fallen autumn leaves."
+            },
+            {
+                "id": 8,
+                "startTime": 35000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 40
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "A winding path between tall, straight trunks."
+            },
+            {
+                "id": 9,
+                "startTime": 40000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 18
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "A leaf-covered path through foggy woods."
+            },
+            {
+                "id": 10,
+                "startTime": 45000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 33
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "Looking straight up at towering tree trunks."
+            },
+            {
+                "id": 11,
+                "startTime": 50000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 48
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "Tall conifers fading into thick white fog."
+            },
+            {
+                "id": 12,
+                "startTime": 55000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 28
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "Low clouds drifting over a dense pine forest."
+            }
+        ],
+        "images": [
+            {
+                "id": 1,
+                "startTime": 0,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/19/1280/960"
+            },
+            {
+                "id": 2,
+                "startTime": 5000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/28/1280/960"
+            },
+            {
+                "id": 3,
+                "startTime": 10000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/476/1280/960"
+            },
+            {
+                "id": 4,
+                "startTime": 15000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/81/1280/960"
+            },
+            {
+                "id": 5,
+                "startTime": 20000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/83/1280/960"
+            },
+            {
+                "id": 6,
+                "startTime": 25000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/127/1280/960"
+            },
+            {
+                "id": 7,
+                "startTime": 30000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/161/1280/960"
+            },
+            {
+                "id": 8,
+                "startTime": 35000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/190/1280/960"
+            },
+            {
+                "id": 9,
+                "startTime": 40000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/923/1280/960"
+            },
+            {
+                "id": 10,
+                "startTime": 45000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/498/1280/960"
+            },
+            {
+                "id": 11,
+                "startTime": 50000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/925/1280/960"
+            },
+            {
+                "id": 12,
+                "startTime": 55000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/932/1280/960"
+            }
+        ]
+    }
+}

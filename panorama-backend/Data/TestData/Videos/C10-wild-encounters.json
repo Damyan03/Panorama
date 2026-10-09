@@ -1,0 +1,466 @@
+{
+    "id": 10,
+    "status": "uploaded",
+    "title": "Wild Encounters",
+    "description": "Animal portraits from the wild, from bears to birds.",
+    "authorId": 1,
+    "tags": [
+        "wildlife",
+        "animals",
+        "birds"
+    ],
+    "dayUploaded": "2026-05-01T12:00:00Z",
+    "coverSrc": "https://picsum.photos/id/1074/1280/720",
+    "views": 1610,
+    "totalDuration": 60000,
+    "content": {
+        "text": [
+            {
+                "id": 1,
+                "startTime": 0,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 15
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "A flock of birds crossing a teal sky."
+            },
+            {
+                "id": 2,
+                "startTime": 5000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 30
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "Pelicans perched along an old wooden pier."
+            },
+            {
+                "id": 3,
+                "startTime": 10000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 45
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "A brown bear staring straight at the lens."
+            },
+            {
+                "id": 4,
+                "startTime": 15000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 20
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "An antlered caribou wading at a forest shore."
+            },
+            {
+                "id": 5,
+                "startTime": 20000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 35
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "A close-up of a coyote against the snow."
+            },
+            {
+                "id": 6,
+                "startTime": 25000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 50
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "A grey coyote watching from the woods."
+            },
+            {
+                "id": 7,
+                "startTime": 30000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 25
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "Deer silhouettes in a golden morning haze."
+            },
+            {
+                "id": 8,
+                "startTime": 35000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 40
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "A spotted fawn looking back over its shoulder."
+            },
+            {
+                "id": 9,
+                "startTime": 40000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 18
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "A mother bear and her cubs on a rocky slope."
+            },
+            {
+                "id": 10,
+                "startTime": 45000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 33
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "A vulture spreading its wings to land."
+            },
+            {
+                "id": 11,
+                "startTime": 50000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 48
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "A lioness with a calm, steady gaze."
+            },
+            {
+                "id": 12,
+                "startTime": 55000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 28
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "Walruses resting together on the sand."
+            }
+        ],
+        "images": [
+            {
+                "id": 1,
+                "startTime": 0,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/258/1280/960"
+            },
+            {
+                "id": 2,
+                "startTime": 5000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/244/1280/960"
+            },
+            {
+                "id": 3,
+                "startTime": 10000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/433/1280/960"
+            },
+            {
+                "id": 4,
+                "startTime": 15000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/577/1280/960"
+            },
+            {
+                "id": 5,
+                "startTime": 20000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/582/1280/960"
+            },
+            {
+                "id": 6,
+                "startTime": 25000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/718/1280/960"
+            },
+            {
+                "id": 7,
+                "startTime": 30000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/943/1280/960"
+            },
+            {
+                "id": 8,
+                "startTime": 35000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/1003/1280/960"
+            },
+            {
+                "id": 9,
+                "startTime": 40000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/1020/1280/960"
+            },
+            {
+                "id": 10,
+                "startTime": 45000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/1024/1280/960"
+            },
+            {
+                "id": 11,
+                "startTime": 50000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/1074/1280/960"
+            },
+            {
+                "id": 12,
+                "startTime": 55000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/1084/1280/960"
+            }
+        ]
+    }
+}

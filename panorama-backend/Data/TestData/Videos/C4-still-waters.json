@@ -1,0 +1,466 @@
+{
+    "id": 4,
+    "status": "uploaded",
+    "title": "Still Waters",
+    "description": "Calm lakes, mirrored shorelines and winding rivers.",
+    "authorId": 1,
+    "tags": [
+        "lakes",
+        "rivers",
+        "reflections"
+    ],
+    "dayUploaded": "2026-05-07T12:00:00Z",
+    "coverSrc": "https://picsum.photos/id/450/1280/720",
+    "views": 1210,
+    "totalDuration": 60000,
+    "content": {
+        "text": [
+            {
+                "id": 1,
+                "startTime": 0,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 15
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "A shallow stream winding into a misty valley."
+            },
+            {
+                "id": 2,
+                "startTime": 5000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 30
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "Dry grass on a hillside above a quiet lake."
+            },
+            {
+                "id": 3,
+                "startTime": 10000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 45
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "Tall reeds on the shore of a mountain lake."
+            },
+            {
+                "id": 4,
+                "startTime": 15000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 20
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "Cloudy peaks reflected in a deep blue lake."
+            },
+            {
+                "id": 5,
+                "startTime": 20000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 35
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "Pines mirrored in a perfectly still lake."
+            },
+            {
+                "id": 6,
+                "startTime": 25000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 50
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "A wooden dock reaching into clear green water."
+            },
+            {
+                "id": 7,
+                "startTime": 30000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 25
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "A turquoise lake beneath snowy peaks."
+            },
+            {
+                "id": 8,
+                "startTime": 35000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 40
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "A wall of glacier ice beyond calm water."
+            },
+            {
+                "id": 9,
+                "startTime": 40000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 18
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "A forest stream rushing over dark stones."
+            },
+            {
+                "id": 10,
+                "startTime": 45000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 33
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "A lone tree standing in a still blue lake."
+            },
+            {
+                "id": 11,
+                "startTime": 50000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 48
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "A weathered jetty pointing toward the peaks."
+            },
+            {
+                "id": 12,
+                "startTime": 55000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 28
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "A rocky river bend lined with tall pines."
+            }
+        ],
+        "images": [
+            {
+                "id": 1,
+                "startTime": 0,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/11/1280/960"
+            },
+            {
+                "id": 2,
+                "startTime": 5000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/125/1280/960"
+            },
+            {
+                "id": 3,
+                "startTime": 10000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/128/1280/960"
+            },
+            {
+                "id": 4,
+                "startTime": 15000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/575/1280/960"
+            },
+            {
+                "id": 5,
+                "startTime": 20000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/412/1280/960"
+            },
+            {
+                "id": 6,
+                "startTime": 25000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/434/1280/960"
+            },
+            {
+                "id": 7,
+                "startTime": 30000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/450/1280/960"
+            },
+            {
+                "id": 8,
+                "startTime": 35000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/813/1280/960"
+            },
+            {
+                "id": 9,
+                "startTime": 40000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/466/1280/960"
+            },
+            {
+                "id": 10,
+                "startTime": 45000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/477/1280/960"
+            },
+            {
+                "id": 11,
+                "startTime": 50000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/1051/1280/960"
+            },
+            {
+                "id": 12,
+                "startTime": 55000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/557/1280/960"
+            }
+        ]
+    }
+}

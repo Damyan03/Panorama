@@ -1,0 +1,466 @@
+{
+    "id": 7,
+    "status": "uploaded",
+    "title": "Desert Light",
+    "description": "Sand dunes, red rock and cactus under a desert sun.",
+    "authorId": 1,
+    "tags": [
+        "desert",
+        "dunes",
+        "canyons"
+    ],
+    "dayUploaded": "2026-05-04T12:00:00Z",
+    "coverSrc": "https://picsum.photos/id/184/1280/720",
+    "views": 1325,
+    "totalDuration": 60000,
+    "content": {
+        "text": [
+            {
+                "id": 1,
+                "startTime": 0,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 15
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "Endless dry hills under a clear blue sky."
+            },
+            {
+                "id": 2,
+                "startTime": 5000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 30
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "Smooth golden hills against a dusky sky."
+            },
+            {
+                "id": 3,
+                "startTime": 10000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 45
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "A dune glowing orange under early stars."
+            },
+            {
+                "id": 4,
+                "startTime": 15000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 20
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "Flat sand stretching to a hazy horizon."
+            },
+            {
+                "id": 5,
+                "startTime": 20000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 35
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "A red rock face above green desert scrub."
+            },
+            {
+                "id": 6,
+                "startTime": 25000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 50
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "A sharp dune ridge splitting light and shade."
+            },
+            {
+                "id": 7,
+                "startTime": 30000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 25
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "Fuzzy cactus arms lit by the setting sun."
+            },
+            {
+                "id": 8,
+                "startTime": 35000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 40
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "Dark pebbles resting on smooth pale sand."
+            },
+            {
+                "id": 9,
+                "startTime": 40000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 18
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "A balanced rock under a bright full moon."
+            },
+            {
+                "id": 10,
+                "startTime": 45000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 33
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "Red sandstone cliffs glowing at sunrise."
+            },
+            {
+                "id": 11,
+                "startTime": 50000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 48
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "Swirling orange walls of a slot canyon."
+            },
+            {
+                "id": 12,
+                "startTime": 55000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 28
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "Tall red rock spires under a blue sky."
+            }
+        ],
+        "images": [
+            {
+                "id": 1,
+                "startTime": 0,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/46/1280/960"
+            },
+            {
+                "id": 2,
+                "startTime": 5000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/141/1280/960"
+            },
+            {
+                "id": 3,
+                "startTime": 10000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/184/1280/960"
+            },
+            {
+                "id": 4,
+                "startTime": 15000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/185/1280/960"
+            },
+            {
+                "id": 5,
+                "startTime": 20000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/247/1280/960"
+            },
+            {
+                "id": 6,
+                "startTime": 25000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/261/1280/960"
+            },
+            {
+                "id": 7,
+                "startTime": 30000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/789/1280/960"
+            },
+            {
+                "id": 8,
+                "startTime": 35000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/796/1280/960"
+            },
+            {
+                "id": 9,
+                "startTime": 40000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/884/1280/960"
+            },
+            {
+                "id": 10,
+                "startTime": 45000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/1016/1280/960"
+            },
+            {
+                "id": 11,
+                "startTime": 50000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/564/1280/960"
+            },
+            {
+                "id": 12,
+                "startTime": 55000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/829/1280/960"
+            }
+        ]
+    }
+}

@@ -17,5 +17,3 @@ obj/
 appsettings.Development.json
 .env
 .env.local
-
-/Data

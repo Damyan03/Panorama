@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "displayName": "Creator Name",
+  "profilePicUrl": "https://picsum.photos/seed/u1/128/128",
+  "profileDescription": "Video editor and creator sharing weekly uploads.",
+  "gender": "Male",
+  "labels": ["Creator", "Verified"],
+  "age": 27,
+  "nationality": "USA"
+}

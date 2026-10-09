@@ -1,0 +1,466 @@
+{
+    "id": 6,
+    "status": "draft",
+    "title": "Meadow Days",
+    "description": "Tall grass, golden fields and soft countryside light.",
+    "authorId": 1,
+    "tags": [
+        "meadows",
+        "fields",
+        "countryside"
+    ],
+    "dayUploaded": "2026-05-05T12:00:00Z",
+    "coverSrc": "https://picsum.photos/id/468/1280/720",
+    "views": 1540,
+    "totalDuration": 60000,
+    "content": {
+        "text": [
+            {
+                "id": 1,
+                "startTime": 0,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 15
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "Long blades of grass in a sunny meadow."
+            },
+            {
+                "id": 2,
+                "startTime": 5000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 30
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "Wildflowers backlit by the evening sun."
+            },
+            {
+                "id": 3,
+                "startTime": 10000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 45
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "An old fence post in dry golden grass."
+            },
+            {
+                "id": 4,
+                "startTime": 15000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 20
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "Fresh grass glowing in soft morning light."
+            },
+            {
+                "id": 5,
+                "startTime": 20000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 35
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "Cotton grass and slim pines on open moorland."
+            },
+            {
+                "id": 6,
+                "startTime": 25000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 50
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "Seed heads swaying against a blurred field."
+            },
+            {
+                "id": 7,
+                "startTime": 30000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 25
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "Green wheat ears in a softly blurred field."
+            },
+            {
+                "id": 8,
+                "startTime": 35000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 40
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "Sunlight streaming over tall wild grasses."
+            },
+            {
+                "id": 9,
+                "startTime": 40000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 18
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "Yellow wildflowers below a lone hilltop tree."
+            },
+            {
+                "id": 10,
+                "startTime": 45000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 33
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "Golden grass plumes bending in the breeze."
+            },
+            {
+                "id": 11,
+                "startTime": 50000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 48
+                },
+                "animation": [
+                    {
+                        "type": "fade-in",
+                        "duration": 350
+                    }
+                ],
+                "value": "Striped crop rows seen from above."
+            },
+            {
+                "id": 12,
+                "startTime": 55000,
+                "duration": 4000,
+                "position": {
+                    "left": 50,
+                    "top": 28
+                },
+                "animation": [
+                    {
+                        "type": "typing",
+                        "duration": 800
+                    }
+                ],
+                "value": "An old tree leaning over a misty meadow."
+            }
+        ],
+        "images": [
+            {
+                "id": 1,
+                "startTime": 0,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/18/1280/960"
+            },
+            {
+                "id": 2,
+                "startTime": 5000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/33/1280/960"
+            },
+            {
+                "id": 3,
+                "startTime": 10000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/59/1280/960"
+            },
+            {
+                "id": 4,
+                "startTime": 15000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/89/1280/960"
+            },
+            {
+                "id": 5,
+                "startTime": 20000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/93/1280/960"
+            },
+            {
+                "id": 6,
+                "startTime": 25000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/98/1280/960"
+            },
+            {
+                "id": 7,
+                "startTime": 30000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/107/1280/960"
+            },
+            {
+                "id": 8,
+                "startTime": 35000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/109/1280/960"
+            },
+            {
+                "id": 9,
+                "startTime": 40000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/468/1280/960"
+            },
+            {
+                "id": 10,
+                "startTime": 45000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/112/1280/960"
+            },
+            {
+                "id": 11,
+                "startTime": 50000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 0
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 100
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/955/1280/960"
+            },
+            {
+                "id": 12,
+                "startTime": 55000,
+                "duration": 5500,
+                "position": {
+                    "left": 50,
+                    "top": 100
+                },
+                "scale": 100,
+                "animation": [
+                    {
+                        "duration": 5500,
+                        "to": {
+                            "left": 50,
+                            "top": 0
+                        },
+                        "type": "move"
+                    }
+                ],
+                "src": "https://picsum.photos/id/807/1280/960"
+            }
+        ]
+    }
+}

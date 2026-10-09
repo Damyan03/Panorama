@@ -1,0 +1,10 @@
+{
+  "id": 3,
+  "displayName": "Commenter Three",
+  "profilePicUrl": "https://picsum.photos/seed/u3/128/128",
+  "profileDescription": "I test drafts, report bugs, and leave feedback.",
+  "gender": "Non-binary",
+  "labels": ["Tester", "Community"],
+  "age": 29,
+  "nationality": "UK"
+}

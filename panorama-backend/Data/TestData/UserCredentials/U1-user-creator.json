@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "username": "CreatorName",
+  "email": "creator@example.com",
+  "password": "Creator123!",
+  "role": "Admin",
+  "createdAt": "2024-06-01T10:00:00Z",
+  "isActive": true
+}

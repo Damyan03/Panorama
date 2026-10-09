@@ -1,0 +1,566 @@
+{
+	"id": 1,
+	"status": "uploaded",
+	"title": "Mountain Panorama",
+	"description": "A slow pan across snowy peaks, ridges and valleys.",
+	"authorId": 1,
+	"tags": ["mountains", "snow", "landscape"],
+	"dayUploaded": "2026-05-10T12:00:00Z",
+	"coverSrc": "https://picsum.photos/id/961/1280/720",
+	"views": 1500,
+	"totalDuration": 60000,
+	"content": {
+		"text": [
+			{
+				"id": 1,
+				"startTime": 0,
+				"duration": 4000,
+				"position": {
+					"left": 50,
+					"top": 15
+				},
+				"style": {
+
+				},
+				"animation": [
+					{
+						"type": "fade-in",
+						"duration": 450
+					},
+					{
+						"type": "move",
+						"duration": 2550,
+						"to": {
+							"left": 10,
+							"top": 50
+						}
+					}
+				],
+				"value": "Snow-dusted peaks"
+			},
+			{
+				"id": 2,
+				"startTime": 3000,
+				"duration": 3000,
+				"position": {
+					"left": 50,
+					"top": 50
+				},
+				"animation": [
+					{
+						"type": "typing",
+						"duration": 900
+					}
+				],
+				"value": "A rocky alpine meadow"
+			},
+			{
+				"id": 3,
+				"startTime": 6000,
+				"duration": 3000,
+				"position": {
+					"left": 50,
+					"top": 20
+				},
+				"animation": [
+					{
+						"type": "typing",
+						"duration": 900
+					}
+				],
+				"value": "Waterfalls off the cliffs"
+			},
+			{
+				"id": 4,
+				"startTime": 9000,
+				"duration": 3000,
+				"position": {
+					"left": 50,
+					"top": 30
+				},
+				"animation": [
+					{
+						"type": "fade-in",
+						"duration": 500
+					}
+				],
+				"value": "A peak over misty water"
+			},
+			{
+				"id": 5,
+				"startTime": 12000,
+				"duration": 3000,
+				"position": {
+					"left": 50,
+					"top": 25
+				},
+				"animation": [
+					{
+						"type": "typing",
+						"duration": 900
+					}
+				],
+				"value": "Highland lake in mono"
+			},
+			{
+				"id": 6,
+				"startTime": 15000,
+				"duration": 3000,
+				"position": {
+					"left": 50,
+					"top": 35
+				},
+				"animation": [
+					{
+						"type": "fade-in",
+						"duration": 400
+					}
+				],
+				"value": "Ridges fading into haze"
+			},
+			{
+				"id": 7,
+				"startTime": 18000,
+				"duration": 3000,
+				"position": {
+					"left": 50,
+					"top": 40
+				},
+				"animation": [
+					{
+						"type": "fade-in",
+						"duration": 350
+					}
+				],
+				"value": "Grass and rocky crests"
+			},
+			{
+				"id": 8,
+				"startTime": 21000,
+				"duration": 3000,
+				"position": {
+					"left": 50,
+					"top": 50
+				},
+				"animation": [
+					{
+						"type": "typing",
+						"duration": 850
+					}
+				],
+				"value": "Snow on jagged peaks"
+			},
+			{
+				"id": 9,
+				"startTime": 24000,
+				"duration": 3000,
+				"position": {
+					"left": 50,
+					"top": 45
+				},
+				"animation": [
+					{
+						"type": "fade-in",
+						"duration": 350
+					}
+				],
+				"value": "A snowy valley"
+			},
+			{
+				"id": 10,
+				"startTime": 27000,
+				"duration": 3000,
+				"position": {
+					"left": 50,
+					"top": 50
+				},
+				"animation": [
+					{
+						"type": "typing",
+						"duration": 1200
+					}
+				],
+				"value": "Soft white skies"
+			},
+			{
+				"id": 11,
+				"startTime": 30000,
+				"duration": 3000,
+				"position": {
+					"left": 50,
+					"top": 20
+				},
+				"animation": [
+					{
+						"type": "fade-in",
+						"duration": 400
+					}
+				],
+				"value": "Trail up a green ridge"
+			},
+			{
+				"id": 12,
+				"startTime": 33000,
+				"duration": 3000,
+				"position": {
+					"left": 50,
+					"top": 30
+				},
+				"animation": [
+					{
+						"type": "typing",
+						"duration": 900
+					}
+				],
+				"value": "Jagged spires at dusk"
+			},
+			{
+				"id": 13,
+				"startTime": 36000,
+				"duration": 3000,
+				"position": {
+					"left": 50,
+					"top": 25
+				},
+				"animation": [
+					{
+						"type": "fade-in",
+						"duration": 400
+					}
+				],
+				"value": "Cliffs in evening light"
+			},
+			{
+				"id": 14,
+				"startTime": 39000,
+				"duration": 3000,
+				"position": {
+					"left": 50,
+					"top": 35
+				},
+				"animation": [
+					{
+						"type": "typing",
+						"duration": 900
+					}
+				],
+				"value": "A deep, shadowed valley"
+			},
+			{
+				"id": 15,
+				"startTime": 42000,
+				"duration": 3000,
+				"position": {
+					"left": 50,
+					"top": 40
+				},
+				"animation": [
+					{
+						"type": "fade-in",
+						"duration": 400
+					}
+				],
+				"value": "Stars over the snow"
+			},
+			{
+				"id": 16,
+				"startTime": 45000,
+				"duration": 3000,
+				"position": {
+					"left": 50,
+					"top": 45
+				},
+				"animation": [
+					{
+						"type": "typing",
+						"duration": 900
+					}
+				],
+				"value": "Cloud-wrapped summit"
+			},
+			{
+				"id": 17,
+				"startTime": 48000,
+				"duration": 3000,
+				"position": {
+					"left": 50,
+					"top": 30
+				},
+				"animation": [
+					{
+						"type": "fade-in",
+						"duration": 400
+					}
+				],
+				"value": "A lone pyramid peak"
+			},
+			{
+				"id": 18,
+				"startTime": 51000,
+				"duration": 3000,
+				"position": {
+					"left": 50,
+					"top": 35
+				},
+				"animation": [
+					{
+						"type": "typing",
+						"duration": 900
+					}
+				],
+				"value": "Pines below the peaks"
+			},
+			{
+				"id": 19,
+				"startTime": 54000,
+				"duration": 3000,
+				"position": {
+					"left": 50,
+					"top": 40
+				},
+				"animation": [
+					{
+						"type": "fade-in",
+						"duration": 400
+					}
+				],
+				"value": "Sheer granite walls"
+			}
+		],
+		"images": [
+			{
+				"id": 1,
+				"startTime": 0,
+				"duration": 4000,
+				"position": { "left": 50, "top": 50 },
+				"scale": 100,
+				"animation": [],
+				"src": "https://picsum.photos/id/29/1280/960"
+			},
+			{
+				"id": 2,
+				"startTime": 3500,
+				"duration": 5000,
+				"position": { "left": 50, "top": 100 },
+				"scale": 100,
+				"animation": [
+					{ "type": "fade-in", "duration": 350 },
+					{
+						"type": "move",
+						"duration": 4400,
+						"to": { "left": 0, "top": -100 }
+					}
+				],
+				"src": "https://picsum.photos/id/651/1280/960"
+			},
+			{
+				"id": 3,
+				"startTime": 8500,
+				"duration": 3500,
+				"position": { "left": 50, "top": 0 },
+				"scale": 100,
+				"animation": [
+					{ "type": "fade-in", "duration": 300 },
+					{
+						"type": "move",
+						"duration": 3000,
+						"to": { "left": 0, "top": 100 }
+					}
+				],
+				"src": "https://picsum.photos/id/599/1280/960"
+			},
+			{
+				"id": 4,
+				"startTime": 12000,
+				"duration": 4500,
+				"position": { "left": 50, "top": 100 },
+				"scale": 100,
+				"animation": [
+					{ "type": "fade-in", "duration": 300 },
+					{
+						"type": "move",
+						"duration": 3900,
+						"to": { "left": 0, "top": -100 }
+					}
+				],
+				"src": "https://picsum.photos/id/166/1280/960"
+			},
+			{
+				"id": 5,
+				"startTime": 16500,
+				"duration": 3000,
+				"position": { "left": 50, "top": 0 },
+				"scale": 100,
+				"animation": [
+					{ "type": "fade-in", "duration": 280 },
+					{
+						"type": "move",
+						"duration": 2500,
+						"to": { "left": 0, "top": 100 }
+					}
+				],
+				"src": "https://picsum.photos/id/231/1280/960"
+			},
+			{
+				"id": 6,
+				"startTime": 19500,
+				"duration": 5500,
+				"position": { "left": 50, "top": 100 },
+				"scale": 100,
+				"animation": [
+					{ "type": "fade-in", "duration": 350 },
+					{
+						"type": "move",
+						"duration": 4800,
+						"to": { "left": 0, "top": -100 }
+					}
+				],
+				"src": "https://picsum.photos/id/572/1280/960"
+			},
+			{
+				"id": 7,
+				"startTime": 25000,
+				"duration": 4000,
+				"position": { "left": 50, "top": 0 },
+				"scale": 100,
+				"animation": [
+					{ "type": "fade-in", "duration": 300 },
+					{
+						"type": "move",
+						"duration": 3400,
+						"to": { "left": 0, "top": 100 }
+					}
+				],
+				"src": "https://picsum.photos/id/256/1280/960"
+			},
+			{
+				"id": 8,
+				"startTime": 29000,
+				"duration": 3500,
+				"position": { "left": 50, "top": 100 },
+				"scale": 100,
+				"animation": [
+					{ "type": "fade-in", "duration": 300 },
+					{
+						"type": "move",
+						"duration": 3000,
+						"to": { "left": 0, "top": -100 }
+					}
+				],
+				"src": "https://picsum.photos/id/287/1280/960"
+			},
+			{
+				"id": 9,
+				"startTime": 32500,
+				"duration": 5000,
+				"position": { "left": 50, "top": 0 },
+				"scale": 100,
+				"animation": [
+					{ "type": "fade-in", "duration": 350 },
+					{
+						"type": "move",
+						"duration": 4300,
+						"to": { "left": 0, "top": 100 }
+					}
+				],
+				"src": "https://picsum.photos/id/814/1280/960"
+			},
+			{
+				"id": 10,
+				"startTime": 37500,
+				"duration": 3000,
+				"position": { "left": 50, "top": 100 },
+				"scale": 100,
+				"animation": [
+					{ "type": "fade-in", "duration": 300 },
+					{
+						"type": "move",
+						"duration": 2500,
+						"to": { "left": 0, "top": -100 }
+					}
+				],
+				"src": "https://picsum.photos/id/368/1280/960"
+			},
+			{
+				"id": 11,
+				"startTime": 40500,
+				"duration": 4500,
+				"position": { "left": 50, "top": 0 },
+				"scale": 100,
+				"animation": [
+					{ "type": "fade-in", "duration": 320 },
+					{
+						"type": "move",
+						"duration": 3900,
+						"to": { "left": 0, "top": 100 }
+					}
+				],
+				"src": "https://picsum.photos/id/377/1280/960"
+			},
+			{
+				"id": 12,
+				"startTime": 45000,
+				"duration": 4000,
+				"position": { "left": 50, "top": 100 },
+				"scale": 100,
+				"animation": [
+					{ "type": "fade-in", "duration": 300 },
+					{
+						"type": "move",
+						"duration": 3400,
+						"to": { "left": 0, "top": -100 }
+					}
+				],
+				"src": "https://picsum.photos/id/406/1280/960"
+			},
+			{
+				"id": 13,
+				"startTime": 49000,
+				"duration": 3500,
+				"position": { "left": 50, "top": 0 },
+				"scale": 100,
+				"animation": [
+					{ "type": "fade-in", "duration": 280 },
+					{
+						"type": "move",
+						"duration": 3000,
+						"to": { "left": 0, "top": 100 }
+					}
+				],
+				"src": "https://picsum.photos/id/961/1280/960"
+			},
+			{
+				"id": 14,
+				"startTime": 52500,
+				"duration": 5000,
+				"position": { "left": 50, "top": 100 },
+				"scale": 100,
+				"animation": [
+					{ "type": "fade-in", "duration": 350 },
+					{
+						"type": "move",
+						"duration": 4400,
+						"to": { "left": 0, "top": -100 }
+					}
+				],
+				"src": "https://picsum.photos/id/1043/1280/960"
+			},
+			{
+				"id": 15,
+				"startTime": 57500,
+				"duration": 2500,
+				"position": { "left": 50, "top": 0 },
+				"scale": 100,
+				"animation": [
+					{ "type": "fade-in", "duration": 200 },
+					{
+						"type": "move",
+						"duration": 1600,
+						"to": { "left": 0, "top": 100 }
+					}
+				],
+				"src": "https://picsum.photos/id/931/1280/960"
+			}
+		]
+	}
+}

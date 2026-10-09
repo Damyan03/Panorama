@@ -1,0 +1,349 @@
+/**
+ * Comprehensive UI utilities for consistent styling across the application.
+ * Mobile-first approach with responsive breakpoints.
+ */
+
+@layer utilities {
+	/* ===== Layout Containers ===== */
+	.container-full-screen {
+		@apply min-h-screen bg-bg-main text-text-primary flex items-center justify-center;
+	}
+
+	.container-main {
+		@apply w-full px-4;
+	}
+
+	.container-sm {
+		@apply w-full max-w-sm;
+	}
+
+	.container-md {
+		@apply w-full max-w-2xl;
+	}
+
+	.container-lg {
+		@apply w-full max-w-4xl;
+	}
+
+	/* ===== Cards & Panels ===== */
+	.card {
+		@apply border border-border bg-bg-elevated/30 transition-all;
+	}
+
+	.card-elevated {
+		@apply border border-border bg-bg-elevated/40 shadow-sm;
+	}
+
+	.card-modal {
+		@apply border border-border bg-bg-elevated/90 backdrop-blur-sm shadow-lg;
+	}
+
+	.card-panel {
+		@apply border border-border bg-bg-secondary/90 p-6 shadow-2xl backdrop-blur;
+	}
+
+	.card-interactive {
+		@apply border border-border bg-bg-elevated/30 transition-all hover:bg-bg-elevated cursor-pointer;
+	}
+
+	/* ===== Typography ===== */
+	.text-heading-lg {
+		@apply text-3xl md:text-4xl font-bold text-text-primary;
+	}
+
+	.text-heading-md {
+		@apply text-2xl font-bold text-text-primary;
+	}
+
+	.text-heading-sm {
+		@apply text-xl font-semibold text-text-primary;
+	}
+
+	.text-label-lg {
+		@apply text-base font-semibold text-text-primary;
+	}
+
+	.text-label-md {
+		@apply text-sm font-medium text-text-secondary;
+	}
+
+	.text-label-sm {
+		@apply text-xs uppercase tracking-[0.3em] text-text-muted;
+	}
+
+	.text-body {
+		@apply text-sm text-text-secondary;
+	}
+
+	.text-muted {
+		@apply text-xs text-text-muted;
+	}
+
+	/* ===== Buttons ===== */
+	.btn {
+		@apply inline-flex items-center justify-center gap-2 px-4 py-2 rounded-xl font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-primary disabled:opacity-50 disabled:cursor-not-allowed;
+	}
+
+	.btn-sm {
+		@apply px-3 py-1.5 text-sm;
+	}
+
+	.btn-lg {
+		@apply px-6 py-3 text-base;
+	}
+
+	.btn-primary {
+		@apply border border-primary/30 bg-primary/20 text-text-primary hover:bg-primary;
+	}
+
+	.btn-secondary {
+		@apply bg-bg-elevated border border-border text-text-primary hover:bg-bg-elevated/80;
+	}
+
+	.btn-ghost {
+		@apply bg-transparent border border-border text-text-secondary hover:bg-overlay-light-10;
+	}
+
+	/* Variant: filter buttons */
+	.btn-filter {
+		@apply px-1 py-2 gap-0;
+	}
+
+	/* Variant: icon-only action buttons */
+	.btn-icon-action {
+		@apply flex items-center justify-center aspect-square h-14 w-14 rounded-2xl border border-border/70 bg-bg-elevated/80 p-3 text-text-secondary shadow-sm backdrop-blur-sm transition-all duration-200 hover:-translate-y-0.5 hover:border-primary/40 hover:text-primary hover:shadow-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 focus-visible:ring-offset-bg-main;
+	}
+
+	.btn-danger {
+		@apply bg-error/10 border border-error/30 text-error hover:bg-error/20;
+	}
+
+	/* ===== Form Elements ===== */
+	.input {
+		@apply w-full px-4 py-2 rounded-xl border border-border bg-bg-elevated text-text-primary placeholder-text-muted transition-colors focus:outline-none focus:ring-2 focus:ring-primary;
+	}
+
+	/* Text style panel helpers */
+	.text-style-field-stack {
+		@apply flex flex-col gap-1;
+	}
+
+	.text-style-field-label {
+		@apply text-xs text-text-muted;
+	}
+
+	.text-style-input {
+		@apply h-9 w-full rounded border border-border bg-bg-secondary px-2 text-sm text-text-primary outline-none focus:ring-2 focus:ring-focus-ring disabled:cursor-not-allowed disabled:opacity-60;
+	}
+
+	.text-style-effect-section {
+		@apply flex flex-col gap-2;
+	}
+
+	.input-sm {
+		@apply px-3 py-1.5 text-sm;
+	}
+
+	.input-lg {
+		@apply px-5 py-3 text-base;
+	}
+
+	/* ===== Links ===== */
+	.link {
+		@apply text-link transition-colors hover:text-primary-light focus:outline-none focus:ring-1 focus:ring-primary;
+	}
+
+	.link-subtle {
+		@apply text-text-secondary transition-colors hover:text-text-primary;
+	}
+
+	/* ===== Badges & Tags ===== */
+	.badge {
+		@apply inline-block px-2 py-0.5 rounded text-xs font-medium;
+	}
+
+	.badge-primary {
+		@apply bg-primary text-text-primary;
+	}
+
+	.badge-secondary {
+		@apply bg-bg-elevated border border-border text-text-secondary;
+	}
+
+	.badge-success {
+		@apply bg-success/10 text-success;
+	}
+
+	.badge-error {
+		@apply bg-error/10 text-error;
+	}
+
+	.badge-role-default {
+		@apply bg-success/10 text-success;
+	}
+
+	.badge-role-admin {
+		@apply bg-error/10 text-error;
+	}
+
+	/* ===== Dividers ===== */
+	.divider {
+		@apply border-t border-border;
+	}
+
+	.divider-vertical {
+		@apply border-r border-border;
+	}
+
+	/* ===== Overlays & Modals ===== */
+	.overlay {
+		@apply fixed inset-0 z-30 bg-overlay-dark-50;
+	}
+
+	.overlay-modal {
+		@apply fixed inset-0 z-50 flex items-center justify-center bg-overlay-dark-75 p-4;
+	}
+
+	.backdrop {
+		@apply backdrop-blur-sm;
+	}
+
+	/* ===== Sections & Spacing ===== */
+	.section {
+		@apply flex flex-col gap-4 md:gap-6;
+	}
+
+	.section-compact {
+		@apply flex flex-col gap-2;
+	}
+
+	.section-spacious {
+		@apply flex flex-col gap-8 md:gap-12;
+	}
+
+	/* ===== Grid & Flex Utilities ===== */
+	.flex-center {
+		@apply flex items-center justify-center;
+	}
+
+	.flex-between {
+		@apply flex items-center justify-between;
+	}
+
+	.grid-auto {
+		@apply grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4;
+	}
+
+	/* ===== Responsive Text ===== */
+	.responsive-text {
+		@apply text-base md:text-lg lg:text-xl;
+	}
+
+	/* ===== Focus & Accessibility ===== */
+	.focus-ring {
+		@apply focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2;
+	}
+
+	.focus-ring-inner {
+		@apply focus:outline-none focus:ring-2 focus:ring-primary;
+	}
+
+	/* ===== Animation Helpers ===== */
+	.transition-fast {
+		@apply transition-all duration-150 ease-out;
+	}
+
+	.transition-normal {
+		@apply transition-all duration-300 ease-out;
+	}
+
+	.transition-slow {
+		@apply transition-all duration-500 ease-out;
+	}
+}
+
+/* ===== Scrollbar Styling ===== */
+::-webkit-scrollbar {
+	width: 8px;
+}
+
+::-webkit-scrollbar-track {
+	background: var(--color-bg-main);
+}
+
+::-webkit-scrollbar-thumb {
+	background: var(--color-ui-subtle);
+	border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: var(--color-overlay-light-20);
+}
+
+/* ===== Vertical Thin Scrollbar Utility ===== */
+.scrollbar-thin-vertical {
+	scrollbar-width: thin;
+	scrollbar-color: var(--color-overlay-light-30) transparent;
+}
+
+.scrollbar-thin-vertical::-webkit-scrollbar {
+	width: 6px;
+}
+
+.scrollbar-thin-vertical::-webkit-scrollbar-track {
+	background: transparent;
+}
+
+.scrollbar-thin-vertical::-webkit-scrollbar-thumb {
+	background: var(--color-overlay-light-30);
+	border-radius: 999px;
+}
+
+.scrollbar-thin-vertical::-webkit-scrollbar-thumb:hover {
+	background: var(--color-overlay-light-80);
+}
+
+/* ===== Custom Scrollbar Variants (Non-Desktop) ===== */
+@media (max-width: 1079px) {
+	.scrollbar-thin-white::-webkit-scrollbar {
+		height: 1px;
+	}
+
+	.scrollbar-thin-white::-webkit-scrollbar-track {
+		background: transparent;
+	}
+
+	.scrollbar-thin-white::-webkit-scrollbar-thumb {
+		background: white;
+		border-radius: 0;
+	}
+
+	.scrollbar-thin-white::-webkit-scrollbar-thumb:hover {
+		background: white;
+	}
+}
+
+/* ===== Mobile-First Responsive Overrides ===== */
+@media (max-width: 640px) {
+	.hide-mobile {
+		@apply hidden;
+	}
+
+	.container-main {
+		@apply px-2;
+	}
+
+	.card {
+		@apply rounded-xl;
+	}
+
+	.section {
+		@apply gap-3;
+	}
+}
+
+@media (min-width: 641px) {
+	.show-mobile-only {
+		@apply hidden;
+	}
+}

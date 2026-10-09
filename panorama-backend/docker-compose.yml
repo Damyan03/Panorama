@@ -1,0 +1,40 @@
+services:
+  backend:
+    build: .
+    ports:
+      - "5252:5252"
+      - "7069:7069"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=${ASPNETCORE_ENVIRONMENT:-Development}
+      - ConnectionStrings__DefaultConnection=Host=${POSTGRES_HOST:-db};Port=${POSTGRES_PORT:-5432};Database=${POSTGRES_DB:-unnamed_site};Username=${POSTGRES_USER:-postgres};Password=${POSTGRES_PASSWORD:-postgres}
+      - Jwt__SigningKey=${JWT_SIGNING_KEY:-local-dev-signing-key-change-me-in-production-0123456789}
+      - Jwt__Issuer=${JWT_ISSUER:-unnamed-site-backend}
+      - Jwt__Audience=${JWT_AUDIENCE:-unnamed-site-frontend}
+      - Jwt__AccessTokenLifetimeMinutes=${JWT_ACCESS_TOKEN_LIFETIME_MINUTES:-60}
+      - Recaptcha__Secret=${Recaptcha__Secret:-}
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - backend_uploads:/app/uploads
+
+  db:
+    image: postgres
+    restart: unless-stopped
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_DB=${POSTGRES_DB:-unnamed_site}
+      - POSTGRES_USER=${POSTGRES_USER:-postgres}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-postgres}
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    volumes:
+      - pgdata:/var/lib/postgresql
+
+volumes:
+  pgdata:
+  backend_uploads:

@@ -1,0 +1,8 @@
+// UI Constants
+export const DEFAULT_INACTIVITY_DELAY_MS = 2000;
+
+//Editor
+export const EDITOR_MAX_SCALE = 300;
+export const EDITOR_TEXT_DEFAULT_WIDTH_PERCENT = 50;
+export const EDITOR_TEXT_MIN_WIDTH_PERCENT = 0;
+export const EDITOR_TEXT_MAX_WIDTH_PERCENT = 100;

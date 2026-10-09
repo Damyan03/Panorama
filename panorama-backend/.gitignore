@@ -1,0 +1,21 @@
+# Build output
+bin/
+obj/
+
+# Rider / VS / user-specific
+.vs/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local tooling caches
+*.log
+
+# Secrets or local environment overrides
+appsettings.Development.json
+.env
+.env.local
+
+/Data
